@@ -58,5 +58,5 @@
     print_r($arr[5]);
     echo "<br>".$_get['bmw']."<br/>";
 ?>
-    
+  //ainda não consegui fazer ele quebrar as paginas certinho  
 </body>
